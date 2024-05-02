@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0
+}
+
+input, button, .mensagem-style{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 3px;
+}
+
+.enviar{
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.mensagem-style{
+    color: white;
+    background-color: blue;
+}
+
